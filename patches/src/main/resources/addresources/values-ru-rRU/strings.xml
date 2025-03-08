@@ -1405,9 +1405,9 @@ Second \"item\" text"</string>
   <string name="revanced_disable_hdr_video_summary_off">HDR видео включено</string>
   </patch>
   <patch id="video.quality.advancedVideoQualityMenuPatch">
-  <string name="revanced_advanced_video_quality_menu_title">Показывать расширенное меню качества видео</string>
-  <string name="revanced_advanced_video_quality_menu_summary_on">Расширенное меню качества видео включено</string>
-  <string name="revanced_advanced_video_quality_menu_summary_off">Новое меню качества видео включено</string>
+  <string name="revanced_advanced_video_quality_menu_title">Показать расширенное меню качества видео</string>
+  <string name="revanced_advanced_video_quality_menu_summary_on">Расширенное меню качества видео показано</string>
+  <string name="revanced_advanced_video_quality_menu_summary_off">Расширенное меню качества видео скрыто</string>
   </patch>
   <patch id="interaction.seekbar.enableSlideToSeekPatch">
   <string name="revanced_slide_to_seek_title">Включить перемотку видео слайдом</string>

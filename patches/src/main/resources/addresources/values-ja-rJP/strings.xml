@@ -119,11 +119,11 @@ Second \"item\" text"</string>
 
 この操作はアプリが動作するために必要です。"</string>
   <string name="gms_core_dialog_open_website_text">ウェブサイトを開く</string>
-  <string name="gms_core_dialog_not_whitelisted_using_battery_optimizations_message">"問題を防ぐためには、GmsCore の電池の最適化を無効にする必要があります。
+  <string name="gms_core_dialog_not_whitelisted_using_battery_optimizations_message">"問題を防ぐために、MicroG GmsCore に対する電池の最適化を必ず無効にしてください。
 
-GmsCore の電池の最適化を無効にしても、バッテリーの使用に悪影響を及ぼすことはありません。
+MicroG GmsCore に対する電池の最適化を無効にしても、バッテリーの使用に悪影響を及ぼすことはありません。
 
-[続行] をタップして [電池の最適化] を無効にしてください。"</string>
+続行ボタンをタップして電池の最適化の設定を変更してください。"</string>
   <string name="gms_core_dialog_continue_text">続行</string>
   </patch>
   </app>
